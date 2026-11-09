@@ -2,9 +2,9 @@
 
 #Display images
 
-![Zone Panel](docs/images/ZonePanelMain.png)
+![Zone Panel](docs/images/ZonePanelHome.png)
 ![Zone Zones](docs/images/ZonePanelZones.png)
-![Zone Panel Pin](docs/images/ZonePanelPin.png)
+![Zone Panel Pin](docs/images/ZonePanelPIN.png)
 
 A second Q-SYS sample: a 4-zone audio panel with scene presets, master mute, and a PIN-protected
 settings page. Companion to the single-room example, with a different UCI layout and more
